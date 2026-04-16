@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 - 🎯 My goal is to become a Backend Developer specializing in Java & Spring Boot
 - 📚 Currently learning Advanced Java (OOP, Collections Framework, Multithreading, JVM fundamentals)
 - 🧠 Interested in clean code, design patterns, and backend architecture  
